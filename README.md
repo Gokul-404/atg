@@ -162,15 +162,3 @@ This project demonstrates:
 - ✅ RESTful URL patterns
 - ✅ Django admin customization
 
-## Future Enhancements (Optional)
-
-- Email verification
-- Password reset functionality
-- User profile editing
-- Additional dashboard features (appointments, medical records, etc.)
-- Search and filter users in admin panel
-- Two-factor authentication
-
-## License
-
-This project is created for educational purposes as part of a Python Django internship.
